@@ -1,0 +1,19 @@
+* {
+    background-color: lightgoldenrodyellow;
+}
+
+.romano {
+
+    list-style-type: upper-roman;
+}
+.quadrado{
+    list-style-type: square;
+
+}
+
+h1 {
+    color: crimson;
+}
+li {
+    color: limegreen;
+}
